@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iOmaR-Corona
+- I’m interested in machine learning applications on physics.
+- I’m currently learning physics, ML, testing and data science.
+-I’m looking to collaborate on data analytics and deep learning projects. 
+-email: esteban.corona@alumnos.udg.mx
